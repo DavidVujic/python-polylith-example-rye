@@ -5,7 +5,7 @@ Navigate to this folder (where the `pyproject.toml` file is)
 
 Run:
 ``` shell
-hatch build
+rye build --wheel
 ```
 
 ## Build a docker image
