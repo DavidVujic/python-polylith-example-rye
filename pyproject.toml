@@ -25,7 +25,7 @@ dev-dependencies = [
     "isort~=5.13.2",
     "mypy~=1.8.0",
     "pytest~=7.4.3",
-    "polylith-cli>=1.1.1",
+    "polylith-cli>=1.1.2",
 ]
 
 [tool.hatch.metadata]

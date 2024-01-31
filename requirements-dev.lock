@@ -36,7 +36,7 @@ packaging==23.2
 pathspec==0.12.1
 platformdirs==4.1.0
 pluggy==1.4.0
-polylith-cli==1.1.1
+polylith-cli==1.1.2
 pydantic==2.6.0
 pydantic-core==2.16.1
 pygments==2.17.2
