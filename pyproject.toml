@@ -11,11 +11,12 @@ requires-python = ">=3.9"
 license = "MIT"
 authors = [{ name = "David Vujic" }]
 dependencies = [
-  "fastapi~=0.106.0",
-  "uvicorn~=0.25.0",
-  "functions-framework~=3.5.0",
-  "sqlalchemy~=2.0.23",
-  "confluent-kafka~=2.3.0",
+    "fastapi~=0.106.0",
+    "uvicorn~=0.25.0",
+    "functions-framework~=3.5.0",
+    "sqlalchemy~=2.0.23",
+    "confluent-kafka~=2.3.0",
+    "polylith-cli>=1.9.1",
 ]
 
 [tool.rye]
